@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  Sitemap: tells search engines which pages exist.
+  When your artwork is uploaded you can list each artwork page too, by
+  copying the example block below (remove the <!- - and - -> lines around it).
+-->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://lezkt1811-maker.github.io/Gospel-13/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <!--
+  <url><loc>https://lezkt1811-maker.github.io/Gospel-13/art.html?art=one-01</loc></url>
+  <url><loc>https://lezkt1811-maker.github.io/Gospel-13/art.html?art=two-01</loc></url>
+  -->
+</urlset>

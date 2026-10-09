@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://lezkt1811-maker.github.io/Gospel-13/sitemap.xml
